@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Code_testing/.idea/Code_testing.iml" filepath="$PROJECT_DIR$/../Code_testing/.idea/Code_testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Temps_for_CPU_GPU/.idea/Temps_for_CPU_GPU.iml" filepath="$PROJECT_DIR$/../Temps_for_CPU_GPU/.idea/Temps_for_CPU_GPU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Wallpaer_infos.iml" filepath="$PROJECT_DIR$/.idea/Wallpaer_infos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Win_10_toast_msg/.idea/Win_10_toast_msg.iml" filepath="$PROJECT_DIR$/../Win_10_toast_msg/.idea/Win_10_toast_msg.iml" />
+    </modules>
+  </component>
+</project>
